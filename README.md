@@ -14,4 +14,3 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.facebook.com/https://facebook.com/qhuy120420" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zenythqh&show_icons=true&locale=en&layout=compact" alt="Zenythqh" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zenythqh" alt="Zenythqh" /></a></p>
